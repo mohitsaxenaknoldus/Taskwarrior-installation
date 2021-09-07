@@ -1,0 +1,4 @@
+install:
+    script:
+        chmod +x tw-install.sh
+        ./tw-install.sh
